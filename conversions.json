@@ -1,0 +1,14 @@
+[
+  {
+    "fromCurrency": "BRL",
+    "toCurrency": "USD",
+    "originalAmount": 1.0,
+    "convertedAmount": 0.1847
+  },
+  {
+    "fromCurrency": "USD",
+    "toCurrency": "BRL",
+    "originalAmount": 1.0,
+    "convertedAmount": 5.415
+  }
+]
